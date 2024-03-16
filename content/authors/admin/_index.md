@@ -1,23 +1,16 @@
 ---
 # Display name
-title: Dr Sophia Kier-Byfield 
-
-# Name pronunciation (optional)
-name_pronunciation: Postdoctoral Researcher
+title: Dr Sophia Kier-Byfield
 
 # Full name (for SEO)
 first_name: Sophia
 last_name: Kier-Byfield
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
