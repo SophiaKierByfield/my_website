@@ -100,6 +100,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sophia-kier-byfield-9075a75b/
+ - icon: google-scholar
+    icon_pack: fab
+    link: https://www.linkedin.com/in/sophia-kier-byfield-9075a75b/
 
   
 
