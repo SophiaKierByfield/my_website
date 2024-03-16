@@ -96,10 +96,16 @@ social:
     link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: [https://pure.southwales.ac.uk/en/persons/sophia-kier-byfield]
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: [https://www.linkedin.com/](https://www.linkedin.com/in/sophia-kier-byfield-9075a75b/)
+    link: https://www.linkedin.com/
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
   
 
 # Highlight the author in author lists? (true/false)
