@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Postdoctoral Researcher
+title: Dr Sophia Kier-Byfield 
 
 # Name pronunciation (optional)
-name_pronunciation: Dr Sophia Kier-Byfield
+name_pronunciation: Postdoctoral Researcher
 
 # Full name (for SEO)
 first_name: Sophia
